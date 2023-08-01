@@ -1,0 +1,7 @@
+--------------------------------------deleting locally-------------------------
+git branch -d dev
+git branch -d test
+
+---------------------------------------deleting Remotly------------------------
+git push origin -d dev
+git push origin -d test 
